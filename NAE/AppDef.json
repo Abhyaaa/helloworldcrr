@@ -27,7 +27,7 @@
                     "description": "Runthis",
                     "type": "STR",
                     "positional": true,
-                    "required": false
+                    "required": true
                 }
             }
         }
