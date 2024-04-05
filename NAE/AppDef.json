@@ -23,11 +23,11 @@
             "description": "Run a batch command using /bin/bash.  The output may be monitored directly in your web browser.",
             "parameters": {
                 "command": {
-                    "name": "Command",
-                    "description": "Command to run",
+                    "name": "EditedCommand",
+                    "description": "Runthis",
                     "type": "STR",
-                    "positional": true,
-                    "required": true
+                    "positional": false,
+                    "required": false
                 }
             }
         }
