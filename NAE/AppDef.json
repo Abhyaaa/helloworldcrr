@@ -22,14 +22,6 @@
             "name": "Batch",
             "description": "Run a batch command using /bin/bash.  The output may be monitored directly in your web browser.",
             "parameters": {
-                "-c": {
-                    "name": "-c",
-                    "description": "-c",
-                    "type": "CONST",
-                    "value": "-c",
-                    "positional": true,
-                    "required": true
-                },
                 "command": {
                     "name": "Command",
                     "description": "Command to run",
